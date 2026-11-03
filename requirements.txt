@@ -1,0 +1,7 @@
+# Direct dependencies of Agentic-Portfolio-Decomposition.ipynb (tested on Python 3.12).
+# Install with: pip install -r requirements.txt
+ipykernel==7.4.0
+matplotlib==3.11.2
+numpy==2.5.4
+pandas==3.1.0
+yfinance==1.7.0

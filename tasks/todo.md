@@ -43,3 +43,4 @@
 - [x] Fit OLS (with intercept) on first 80% of returns, predict last 20% with fixed weights
 - [x] Chart growth of $1 predicted vs actual on test period with stream correlation
 - [x] Verified: train 2016-11-04..2024-10-30 (2009 d), test 2024-10-31..2026-11-03 (503 d), no overlap; stream corr 0.988
+- [x] Added requirements.txt (pinned direct deps)
