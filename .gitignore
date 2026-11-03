@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project temp files
+.cache/
+
+# Claude Code local settings
+.claude/
+
+# Environment / secrets
+.env
