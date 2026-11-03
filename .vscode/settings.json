@@ -1,0 +1,7 @@
+{
+    // Save open files (including the notebook) shortly after every edit, so the
+    // editor buffer is never "dirty". VS Code only reloads a file changed on disk
+    // (e.g. by Claude) when the open copy has no unsaved changes.
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000
+}
